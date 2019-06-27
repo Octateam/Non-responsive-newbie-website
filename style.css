@@ -1,0 +1,133 @@
+body{
+    margin: 0;
+
+}
+
+h1{
+    color: #66BFBF;
+    text-align: center;
+
+    
+}
+h2{
+    color: #66BFBF;
+    padding-left: 10px;
+    font-family: serif;
+    font-size: 200%;
+}
+
+.before-top{
+    height: 70px;
+    width: 100%;
+    background-color: white;
+    position: fixed;
+    z-index: 1000;
+    
+    
+
+}
+.top-container{
+    background-image: url("Desktop.png");
+    text-align: center;
+    height: 700px;
+    width: 100%;
+    padding-top: 200px;
+}
+
+
+.middle-container{
+    background-color: white;
+    height: 100%;
+    width: 100%;
+}
+
+p{
+    color: #747474;
+    font: 1em serif;
+    font-weight: bold;
+}
+
+.skill{
+    height: 40px;
+}
+
+.item1{
+    padding-left: 350px;
+    padding-top: 40px;
+    width: 10%;
+
+}
+
+.item1-text{
+
+    color: #40514E;
+    font: 1em serif;
+    font-size: 25px;
+    position: relative;
+    padding-left: 550px;
+    top: -170px;
+    width: 30%;
+}
+
+.item2{
+    position: relative;
+    left: 1000px;
+    width: 12%;
+}
+
+.item2-text{
+    color: #40514E;
+    font: 1em serif;
+    font-size: 25px;
+    position: relative;
+    padding-left: 550px;
+    top: -200px;
+    width: 30%;
+}
+
+.item1-head{
+    color: #66BFBF;
+    font-size: 25px;
+    position: relative;
+    top: 55px;
+    left: 550px;
+    width: 30%;
+}
+
+.item2-head{
+    color: #66BFBF;
+    font-size: 25px;
+    position: relative;
+    top: 15px;
+    left: 550px;
+    width: 30%;
+}
+
+.Ui{
+padding-top: 20px;
+ width: 100%;   
+}
+
+.Rapid{
+    width: 100%;
+}
+
+.Dev{
+    width: 100%;
+}
+
+hr{
+    padding-top: -50px;
+    border-style: dotted none none;
+    width: 5%;
+    border-color: #c4c4c4;
+    border-width: 5px;
+}
+
+.summary-text{
+    color: #40514E;
+    font: 1em serif;
+    font-size: 25px;
+    width: 50%;
+    margin: auto auto 50px auto;
+}
